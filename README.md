@@ -18,7 +18,7 @@ O sistema permite gerenciar uma coleção de moedas de diferentes nacionalidades
 4.  **Remoção precisa:** sobrescrita do método `equals` na classe mãe para garantir que a remoção da moeda funcione corretamente na lista.
 
 ## Como executar
-O projeto contém a classe `Principal.java` que possui o método `main`. Basta executar este arquivo para iniciar o console interativo.
+O projeto contém a classe `Main.java` que possui o método `main`. Basta executar este arquivo para iniciar o console interativo.
 
 ## Tecnologias
 * Java (JDK)
